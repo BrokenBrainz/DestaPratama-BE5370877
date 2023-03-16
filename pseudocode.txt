@@ -1,0 +1,4 @@
+Store "Jumlah" As integer with value
+Store "harga" As integer with value
+Store "Total" As integer with 0
+Store "Harga Akhir" as integer with 0
